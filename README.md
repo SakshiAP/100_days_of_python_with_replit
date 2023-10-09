@@ -4,7 +4,7 @@ Welcome to my 100 Days of Python coding challenge with Replit! My name is Sakshi
 
 ## About the Challenge
 
-- **Start Date**: October 10, 2023
+- **Start Date**: September 9, 2023
 - **Replit Profile**: [Sakshi Pawar on Replit](https://replit.com/@SakshiPawar15)
 - **Replit 100 Days of Python Hub**: [Join me on Replit](https://replit.com/learn/100-days-of-python/hub)
 - **GitHub Repository**: [GitHub Repository](https://github.com/SakshiAP/100_days_of_python_with_replit)
